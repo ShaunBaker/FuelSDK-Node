@@ -14,7 +14,8 @@
   "dependencies": {
     "fuel-auth": "^2.0.0",
     "fuel-rest": "^1.0.0",
-    "fuel-soap": "^1.1.0"
+    git+https://github.com/ShaunBaker/smartling-sdk.git
+    "fuel-soap": "git+https://github.com/ShaunBaker/FuelSDK-Node-SOAP.git"
   },
   "bugs": {
     "url": "https://github.com/salesforcefuel/FuelSDK-Node/issues"
