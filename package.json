@@ -13,7 +13,7 @@
   "devDependencies": {},
   "dependencies": {
     "fuel-auth": "^2.0.0",
-    "fuel-rest": "^1.0.0",
+    "fuel-rest": "^2.0.0",
     "fuel-soap": "git+https://github.com/ShaunBaker/FuelSDK-Node-SOAP.git"
   },
   "bugs": {
